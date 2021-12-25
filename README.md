@@ -1,4 +1,4 @@
 # BrandKU
 
-#Website Responsive Scrool 
-##Trying in yourself !!!
+#Website Responsive Scroll 
+
